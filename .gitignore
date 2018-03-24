@@ -1,0 +1,12 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+
+src/test
+/src/main/webapp/WEB-INF/js/
+
+/src/main/resources/rebel.xml
